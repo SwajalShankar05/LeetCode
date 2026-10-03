@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LordGrim05/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/LordGrim05/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
