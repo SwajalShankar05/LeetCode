@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LordGrim05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/LordGrim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LordGrim05/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -69,4 +70,8 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LordGrim05/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/LordGrim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/LordGrim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
