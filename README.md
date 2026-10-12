@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LordGrim05/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/LordGrim05/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
@@ -15,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LordGrim05/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/LordGrim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
