@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LordGrim05/LeetCode/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LordGrim05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/LordGrim05/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/LordGrim05/LeetCode/tree/master/0200-number-of-islands) |
@@ -58,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LordGrim05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
