@@ -98,10 +98,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LordGrim05/LeetCode/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LordGrim05/LeetCode/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/LordGrim05/LeetCode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -128,6 +130,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LordGrim05/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
 | ------- |
@@ -144,4 +147,16 @@
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
