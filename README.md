@@ -20,6 +20,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/LordGrim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LordGrim05/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LordGrim05/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0136-single-number](https://github.com/LordGrim05/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/LordGrim05/LeetCode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/LordGrim05/LeetCode/tree/master/0994-rotting-oranges) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +140,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
