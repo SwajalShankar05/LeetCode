@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -153,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
