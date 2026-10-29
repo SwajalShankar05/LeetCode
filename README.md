@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/LordGrim05/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 | [0994-rotting-oranges](https://github.com/LordGrim05/LeetCode/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LordGrim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -182,8 +184,14 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
