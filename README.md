@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LordGrim05/LeetCode/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/LordGrim05/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/LordGrim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/LordGrim05/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/LordGrim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LordGrim05/LeetCode/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LordGrim05/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -109,6 +111,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/LordGrim05/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/LordGrim05/LeetCode/tree/master/0200-number-of-islands) |
 | [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/LordGrim05/LeetCode/tree/master/0994-rotting-oranges) |
@@ -200,4 +203,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/LordGrim05/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
