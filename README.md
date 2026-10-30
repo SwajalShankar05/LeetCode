@@ -22,6 +22,7 @@
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 | [0994-rotting-oranges](https://github.com/LordGrim05/LeetCode/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LordGrim05/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LordGrim05/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LordGrim05/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LordGrim05/LeetCode/tree/master/0200-number-of-islands) |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0133-clone-graph](https://github.com/LordGrim05/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/LordGrim05/LeetCode/tree/master/0207-course-schedule) |
 | [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Shortest Path
 |  |
 | ------- |
@@ -231,4 +234,20 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LordGrim05/LeetCode/tree/master/0207-course-schedule) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
