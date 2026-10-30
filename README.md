@@ -16,6 +16,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LordGrim05/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/LordGrim05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LordGrim05/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/LordGrim05/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/LordGrim05/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LordGrim05/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
@@ -157,6 +160,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LordGrim05/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -195,10 +199,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LordGrim05/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LordGrim05/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Knapsack Problem
 |  |
@@ -250,4 +256,12 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/LordGrim05/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
