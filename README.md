@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LordGrim05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 | [0994-rotting-oranges](https://github.com/LordGrim05/LeetCode/tree/master/0994-rotting-oranges) |
@@ -56,6 +57,7 @@
 | [0127-word-ladder](https://github.com/LordGrim05/LeetCode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/LordGrim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/LordGrim05/LeetCode/tree/master/0344-reverse-string) |
+| [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LordGrim05/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/LordGrim05/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LordGrim05/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -159,6 +161,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LordGrim05/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
@@ -189,11 +192,13 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
 ## Backtracking
 |  |
