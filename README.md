@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/LordGrim05/LeetCode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/LordGrim05/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
@@ -45,6 +46,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LordGrim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LordGrim05/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -57,6 +59,7 @@
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/LordGrim05/LeetCode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LordGrim05/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LordGrim05/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
@@ -288,4 +292,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/LordGrim05/LeetCode/tree/master/0070-climbing-stairs) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
