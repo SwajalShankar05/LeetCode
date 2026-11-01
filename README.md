@@ -46,6 +46,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/LordGrim05/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/LordGrim05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/LordGrim05/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LordGrim05/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -58,6 +59,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/LordGrim05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/LordGrim05/LeetCode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
 ## String
@@ -162,6 +164,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/LordGrim05/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LordGrim05/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/LordGrim05/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/LordGrim05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/LordGrim05/LeetCode/tree/master/0743-network-delay-time) |
 ## Merge Sort
 |  |
@@ -296,4 +299,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/LordGrim05/LeetCode/tree/master/0455-assign-cookies) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/LordGrim05/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/LordGrim05/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
