@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/LordGrim05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/LordGrim05/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/LordGrim05/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LordGrim05/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/LordGrim05/LeetCode/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/LordGrim05/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/LordGrim05/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/LordGrim05/LeetCode/tree/master/0494-target-sum) |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/LordGrim05/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/LordGrim05/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
